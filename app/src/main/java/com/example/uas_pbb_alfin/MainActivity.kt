@@ -71,7 +71,7 @@ class MainActivity : ComponentActivity() {
                         horizontalAlignment = Alignment.CenterHorizontally
                     ) {
                         Greeting(
-                            name = "Android",
+                            name = "History Alfin Transaction",
                             modifier = Modifier.padding(top = 16.dp)
                         )
                         Spacer(modifier = Modifier.height(16.dp)) // Add space between text and button
